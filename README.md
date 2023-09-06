@@ -5,7 +5,7 @@ Week 6 Challenge
 ## LINKS
 
     - Repository: https://github.com/monairain/js-quiz 
-    - Deployed site:
+    - Deployed site: https://monairain.github.io/js-quiz/ 
 
 ## The Challenge brief
 
