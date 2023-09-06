@@ -2,6 +2,11 @@
 
 Week 6 Challenge
 
+## LINKS
+
+    - Repository: https://github.com/monairain/js-quiz 
+    - Deployed site:
+
 ## The Challenge brief
 
 "this week’s challenge invites you to build a timed coding quiz with multiple-choice questions. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. This week’s coursework has taught you all the skills you need to succeed in this challenge."
@@ -31,6 +36,3 @@ Create a code quiz that contains the following requirements:
 ![alt text](assets/screenshots/Screenshot%202.png)
 ![alt text](assets/screenshots/Screenshot%203.png)
 ![alt text](assets/screenshots/Screenshot%204.png)
-
-
-
