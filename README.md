@@ -27,10 +27,10 @@ Create a code quiz that contains the following requirements:
 
 ## Usage
 
-![alt text](assets/screenshots/Screenshot1.png)
+![alt text](assets/screenshots/Screenshot%201.png)
 ![alt text](assets/screenshots/Screenshot%202.png)
-![alt text](assets/screenshots/Screenshot3.png)
-![alt text](assets/screenshots/Screenshot4.png)
+![alt text](assets/screenshots/Screenshot%203.png)
+![alt text](assets/screenshots/Screenshot%204.png)
 
 
 
